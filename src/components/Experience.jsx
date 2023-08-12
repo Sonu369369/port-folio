@@ -46,13 +46,13 @@ const Experience = () => {
       id: 6,
       src: mongo,
       title: "Mongo Db",
-      style: "shadow-white",
+      style: "shadow-green-400",
     },
     {
       id: 7,
       src: express,
       title: "Express",
-      style: "shadow-pink-400",
+      style: "shadow-red-400",
     },
     {
       id: 8,
@@ -64,7 +64,7 @@ const Experience = () => {
       id: 9,
       src: node,
       title: "Node.js",
-      style: "shadow-gray-400",
+      style: "shadow-green-400",
     },
   ];
 
