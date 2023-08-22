@@ -14,22 +14,13 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          A seasoned MERN Stack Developer proficient in building robust and
-          scalable web applications. Expertise in crafting efficient front-end
-          interfaces using React and responsive design principles. Profound
-          knowledge of Node.js and MongoDB for creating dynamic and performant
-          back-end systems. Passionate about leveraging modern technologies to
-          create exceptional user experiences
+          Full-stack developers are proficient in both frontend and backend development, allowing them to handle all aspects of web development. They can create entire web applications from start to finish, making them versatile contributors to a development team. Full-stack development requires a deep understanding of both client-side and server-side technologies.
         </p>
 
         <br />
 
         <p className="text-xl">
-          I possess 6 months of hands-on experience in MERN Stack development
-          and have served as a dedicated Full Stack intern for an additional 6
-          months. Skilled in creating dynamic web applications using React,
-          Node.js, Express, and MongoDB. Committed to delivering efficient and
-          innovative solutions.
+          Frontend development focuses on creating the visual and interactive elements that users see and interact with on a website or web application. This involves using languages such as HTML (Hypertext Markup Language), CSS
         </p>
       </div>
     </div>
